@@ -130,6 +130,7 @@ img {
 
 /* versione tablet */
  @media screen and (max-width:768px) {
+
 .container { 
     width: 100%;
 }
@@ -140,7 +141,16 @@ img {
 
 /* versione smartphone */
  @media screen and (max-width:480px) {
+
+    .row {
+        display: block;
+    }
+
     .lessons .col {
-        /* width: 100%; */
+        width: 100%;
+    }
+
+    .steps .col {
+
     }
 }
