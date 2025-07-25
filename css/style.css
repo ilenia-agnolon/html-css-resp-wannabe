@@ -140,5 +140,7 @@ img {
 
 /* versione smartphone */
  @media screen and (max-width:480px) {
-
+    .lessons .col {
+        /* width: 100%; */
+    }
 }
