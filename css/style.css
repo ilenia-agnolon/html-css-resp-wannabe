@@ -153,4 +153,8 @@ img {
     .steps .col {
         width: 100%;
     }
+
+    .col {
+        padding-bottom: 40px;
+    }
 }
