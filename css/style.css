@@ -161,4 +161,26 @@ img {
     .text {
        font-size: 20px; 
     }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
+
+    .why-us h2 {
+        font-size: 3rem;
+    }
+
+     .why-us h3 {
+        font-size: 2rem;
+    }
+
+    .why-us p {
+        font-size: 1.2rem;
+    }
+
+   
 }
