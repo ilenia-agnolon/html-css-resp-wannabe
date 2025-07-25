@@ -129,14 +129,16 @@ img {
  ************************************************/
 
 /* versione tablet */
- @media screen and (max-width 768px) {
-
+ @media screen and (max-width:768px) {
+.container { 
+    width: 100%;
 }
+ }
 
 
 /* _________________________________________ */
 
 /* versione smartphone */
- @media screen and (max-width 480px) {
+ @media screen and (max-width:480px) {
 
 }
